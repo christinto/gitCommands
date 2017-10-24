@@ -22,5 +22,5 @@ git commit -m ".gitignore is now working"
 Create a .gitignore file, so to do that, you just create any blank .txt file.
 Then you have to change its name writing the following line on the cmd (where git.txt is the name of the file you've just created):
 
-rename git.txt .gitignore
+rename git.txt .gitignore VIA WINDOWS STANDARD CMD LINE TERMINAL AS ADMIN :) 
 Then you can open the file and write all the untracked files you want to ignore for good.
