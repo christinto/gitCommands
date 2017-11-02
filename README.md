@@ -24,3 +24,11 @@ Then you have to change its name writing the following line on the cmd (where gi
 
 rename git.txt .gitignore VIA WINDOWS STANDARD CMD LINE TERMINAL AS ADMIN :) 
 Then you can open the file and write all the untracked files you want to ignore for good.
+---
+
+Forcing pull
+Git force pull to overwrite local files
+
+git fetch --all
+git reset --hard origin/master
+git pull origin master
